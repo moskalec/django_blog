@@ -1,0 +1,7 @@
+*.py[cod]
+media/
+/static/
+__pycache__
+.idea/
+.DS_Store
+venv/
